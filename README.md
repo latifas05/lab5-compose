@@ -14,9 +14,6 @@
    ```bash
    docker compose up --build -d
 
-## Проверьте статус сервисов:
-   docker compose ps
-
 ##  Результаты тестирования
 1. Статус контейнеров (docker compose ps)
 <img width="913" height="65" alt="image" src="https://github.com/user-attachments/assets/88f1982e-e91f-4d86-bcee-ffa02b2abdfc" />
